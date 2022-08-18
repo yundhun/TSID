@@ -7,7 +7,7 @@
 ---
 | Asset Type | URL |Data Contents | Format |
 | ------ | ------ | ------ | ------ |
-| Stamping Press Machine | ... | Stamped Coin Quality Data : 40 rows  | csv |
+| Stamping Press Machine | https://github.com/yundhun/TSID/tree/main/stamping_press_machine | Stamped Coin Quality Data : 40 rows  | csv |
 | Conveyor Belt System | ... | Normal Belt : 900 rows <br/> Cut-diagonal Belt : 900 rows <br/> Cut-vertical Belt : 900 rows <br/> Cut-vetrical-multiple Belt : 900 rows <br/> Cut-vertical-diagonal Belt : 900 rows | csv |
 
 #### Stamping Press Machine
