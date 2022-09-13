@@ -3,10 +3,10 @@
 - Currently, two types of asset is opend. More types will be opend soon.
 
 ## Datasets
-| Asset Type | URL | Contents | Format |
-| ------ | ------ | ------ | ------ |
-| Stamping Press Machine | https://github.com/yundhun/TSID/tree/main/stamping_press_machine | Stamped Coin Quality Data : 40 rows  | csv |
-| Conveyor Belt System | ... | Normal Belt : 900 rows <br/> Cut-diagonal Belt : 900 rows <br/> Cut-vertical Belt : 900 rows <br/> Cut-vetrical-multiple Belt : 900 rows <br/> Cut-vertical-diagonal Belt : 900 rows | csv |
+| Asset Type | Contents | Format |
+| ------ | ------ | ------ |
+| Stamping Press Machine | Stamped Coin Quality Data : 40 rows  | csv |
+| Conveyor Belt System | Normal Belt : 900 rows <br/> Damaged Belt (diagonal cut) : 900 rows <br/> Damaged Belt (vertical cut) : 900 rows <br/> Damaged Belt (mutiple vetrical cut) : 900 rows <br/> Damaged Belt (vertical, diagonal mixed) : 900 rows | csv |
 
 ## Stamping Press Machine
 <img width="640" alt="image" src="https://user-images.githubusercontent.com/15883027/189007516-cfc8ccde-7300-4c7d-813f-5aa567f91043.png">
